@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Sunny
+
+I am a software developer and test automation expert. I love building automation utilities and have recently started exploring IOT based automations. I have created number of different utilties and libraries as part of my work projects as well as personal projects. I love to epxeriment with open source tech stack and wish to contribute towards same some day.
+
+Stick around and feel free to browse through the reposities that I have made public!
+
+- 🌱 I’m always learning more about **Test Automation**
+- 📫 How to reach me **https://www.linkedin.com/in/sunny-dsouza/**
+
 
 <!--
 **sunnydsouza/sunnydsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

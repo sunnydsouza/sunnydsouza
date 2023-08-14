@@ -3,9 +3,11 @@
 I am a software developer and test automation expert. I love building automation utilities and have recently started exploring IOT based automations. I have created number of different utilties and libraries as part of my work projects as well as personal projects. I love to epxeriment with open source tech stack and wish to contribute towards same some day.
 
 Stick around and feel free to browse through the reposities that I have made public!
-- 🔭 I’m currently working on automating **Notion using NotionApi, using Python**
-- 🌱 I’m always learning more about **Test Automation**
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m always learning more about developing **Test Automation** utilities
+- 🌱 I’m currently honing my skills on **Javascript and Python**
+- 🌱 I have explored and worked with CI/CD techstack including **Docker, Kubernetes, Helm**
+- 🔭 I just love creating utilities. I have designed **chrome extensions, homeassistant frontend/backend integrations and several python utilities**.
+- 🔭 Currently excited to create smart applications leveraging **OpenAI api (ChatGPT)**
 - 📫 How to reach me **https://www.linkedin.com/in/sunny-dsouza/**
 
 <h3 align="left">Connect with me:</h3>

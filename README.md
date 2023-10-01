@@ -4,6 +4,7 @@ I am a software developer and test automation expert. I love building automation
 
 Stick around and feel free to browse through the reposities that I have made public!
 - 🌱 I’m always learning more about developing **Test Automation** utilities
+- 🏠 Building a smart home using **HomeAssistant**
 - 🌱 I’m currently honing my skills on **Javascript and Python**
 - 🌱 I have explored and worked with CI/CD techstack including **Docker, Kubernetes, Helm**
 - 🔭 I just love creating utilities. I have designed **chrome extensions, homeassistant frontend/backend integrations and several python utilities**.

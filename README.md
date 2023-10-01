@@ -3,8 +3,9 @@
 I am a software developer and test automation expert. I love building automation utilities and have recently started exploring IOT based automations. I have created number of different utilties and libraries as part of my work projects as well as personal projects. I love to epxeriment with open source tech stack and wish to contribute towards same some day.
 
 Stick around and feel free to browse through the reposities that I have made public!
-- 🌱 I’m always learning more about developing **Test Automation** utilities
-- 🏠 Building a smart home using **HomeAssistant**
+- 🌱 I’m currently learning and implementing deploying applications to **Amazon Web Services** EKS clusters using helm, kubernetes using **GitHub Actions**
+- 🌱 I’m always developing **Test Automation** utilities to help my team test complex payment messaging applications.
+- 🏠 Currently building my smarthome using **HomeAssistant**
 - 🌱 I’m currently honing my skills on **Javascript and Python**
 - 🌱 I have explored and worked with CI/CD techstack including **Docker, Kubernetes, Helm**
 - 🔭 I just love creating utilities. I have designed **chrome extensions, homeassistant frontend/backend integrations and several python utilities**.
